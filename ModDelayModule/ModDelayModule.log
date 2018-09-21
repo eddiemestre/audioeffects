@@ -1,0 +1,10 @@
+﻿  plugin.cpp
+  pluginobjects.cpp
+  RackAFXDLL.cpp
+  ModDelayModule.cpp
+  DDLModule.cpp
+  WTOscillator.cpp
+  Generating Code...
+d:\rackafx\rackafx_projects\moddelaymodule\moddelaymodule.cpp(189): warning C4715: 'CModDelayModule::calculateDelayOffset': not all control paths return a value
+     Creating library D:\RackAFX\RackAFX_Projects\ModDelayModule\x64\Release\ModDelayModule.lib and object D:\RackAFX\RackAFX_Projects\ModDelayModule\x64\Release\ModDelayModule.exp
+  ModDelayModule.vcxproj -> D:\RackAFX\RackAFX_Projects\ModDelayModule\x64\Release\ModDelayModule.dll

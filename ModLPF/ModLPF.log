@@ -1,0 +1,9 @@
+﻿  MassbergLPF.cpp
+  ModLPF.cpp
+  RackAFXDLL.cpp
+  WTOscillator.cpp
+  plugin.cpp
+  pluginobjects.cpp
+  Generating Code...
+     Creating library C:\Users\egmes\Documents\RackAFX_backup\x64\Release\ModLPF.lib and object C:\Users\egmes\Documents\RackAFX_backup\x64\Release\ModLPF.exp
+  ModLPF.vcxproj -> C:\Users\egmes\Documents\RackAFX_backup\x64\Release\ModLPF.dll

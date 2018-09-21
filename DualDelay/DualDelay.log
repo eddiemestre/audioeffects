@@ -1,0 +1,67 @@
+﻿  StereoDelay.cpp
+  ResonantLPF.cpp
+  ResonantHPF.cpp
+  RackAFXDLL.cpp
+  pluginobjects.cpp
+  plugin.cpp
+  MassbergLPF.cpp
+  DualDelay.cpp
+  DDLModule.cpp
+  Generating Code...
+DDLModule.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library C:\Users\egmes\AppData\Roaming\RackAFX\PlugIns\DualDelay.lib and object C:\Users\egmes\AppData\Roaming\RackAFX\PlugIns\DualDelay.exp
+Sock2VST3d_vc15.lib(funknown.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(funknown.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(ustring.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(ustring.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(vst3editor.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(vst3editor.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(vst3padcontroller.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(vst3padcontroller.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(vstgui_uidescription_win32.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(vstgui_uidescription_win32.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(vstgui_win32.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(vstgui_win32.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(pluginview.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(pluginview.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(dllmain.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(dllmain.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(pluginfactoryvst3.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(pluginfactoryvst3.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(vst2wrapper.sdk.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(vst2wrapper.sdk.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(vstbus.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(vstbus.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(vstcomponentbase.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(vstcomponentbase.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(vstsinglecomponenteffect.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(vstsinglecomponenteffect.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(vstguieditor.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(vstguieditor.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(vstinitiids.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(vstinitiids.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(vstparameters.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(vstparameters.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(pugixml.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(pugixml.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RackAFXMeterDetectorEx.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RackAFXMeterDetectorEx.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RAFXCView.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RAFXCView.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RafxFrame.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RafxFrame.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RAFXKickButton.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RAFXKickButton.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RAFXKnob.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RAFXKnob.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RAFXSlider.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RAFXSlider.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RAFXSwitchView.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RAFXSwitchView.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RAFXTextLabelEdit.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RAFXTextLabelEdit.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RafxVSTEditor.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RafxVSTEditor.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RAFXVuMeter.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RAFXVuMeter.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RAFXXYPad.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RAFXXYPad.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(WPXMLParser.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(WPXMLParser.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(FUIDContainer.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(FUIDContainer.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(LogParameter.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(LogParameter.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(PadControllerWP.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(PadControllerWP.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RackAFXGUIFactory.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RackAFXGUIFactory.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RAFXPlugInContainer.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RAFXPlugInContainer.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(factory.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(factory.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(KickButtonWP.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(KickButtonWP.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(PeakParameter.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(PeakParameter.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(RackAFXMeterDetector.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(RackAFXMeterDetector.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(TextLabelEditWP.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(TextLabelEditWP.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(VoltOctaveParameter.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(VoltOctaveParameter.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(VST3EditorWP.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(VST3EditorWP.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(VSTProcessor.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(VSTProcessor.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(VuMeterWP.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(VuMeterWP.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+Sock2VST3d_vc15.lib(XYPadWP.obj) : warning LNK4099: PDB 'sock2vst3d_vc15.pdb' was not found with 'Sock2VST3d_vc15.lib(XYPadWP.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\sock2vst3d_vc15.pdb'; linking object as if no debug info
+base_vc15d.lib(baseiids.obj) : warning LNK4099: PDB 'base_vc15d.pdb' was not found with 'base_vc15d.lib(baseiids.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\base_vc15d.pdb'; linking object as if no debug info
+base_vc15d.lib(fatomic.obj) : warning LNK4099: PDB 'base_vc15d.pdb' was not found with 'base_vc15d.lib(fatomic.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\base_vc15d.pdb'; linking object as if no debug info
+base_vc15d.lib(fbuffer.obj) : warning LNK4099: PDB 'base_vc15d.pdb' was not found with 'base_vc15d.lib(fbuffer.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\base_vc15d.pdb'; linking object as if no debug info
+base_vc15d.lib(fdebug.obj) : warning LNK4099: PDB 'base_vc15d.pdb' was not found with 'base_vc15d.lib(fdebug.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\base_vc15d.pdb'; linking object as if no debug info
+base_vc15d.lib(fobject.obj) : warning LNK4099: PDB 'base_vc15d.pdb' was not found with 'base_vc15d.lib(fobject.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\base_vc15d.pdb'; linking object as if no debug info
+base_vc15d.lib(fstreamer.obj) : warning LNK4099: PDB 'base_vc15d.pdb' was not found with 'base_vc15d.lib(fstreamer.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\base_vc15d.pdb'; linking object as if no debug info
+base_vc15d.lib(fstring.obj) : warning LNK4099: PDB 'base_vc15d.pdb' was not found with 'base_vc15d.lib(fstring.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\base_vc15d.pdb'; linking object as if no debug info
+base_vc15d.lib(fthread.obj) : warning LNK4099: PDB 'base_vc15d.pdb' was not found with 'base_vc15d.lib(fthread.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\base_vc15d.pdb'; linking object as if no debug info
+base_vc15d.lib(timer.obj) : warning LNK4099: PDB 'base_vc15d.pdb' was not found with 'base_vc15d.lib(timer.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\base_vc15d.pdb'; linking object as if no debug info
+base_vc15d.lib(updatehandler.obj) : warning LNK4099: PDB 'base_vc15d.pdb' was not found with 'base_vc15d.lib(updatehandler.obj)' or at 'D:\RackAFX\RackAFX_Projects\DualDelay\base_vc15d.pdb'; linking object as if no debug info
+  DualDelay.vcxproj -> C:\Users\egmes\AppData\Roaming\RackAFX\PlugIns\DualDelay.dll
